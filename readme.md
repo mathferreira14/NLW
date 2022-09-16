@@ -4,7 +4,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[ Clique aqui para acessar!](siegfrieddrx.github.io/NLW)
+[ Clique aqui para acessar!](Siegfrieddrx.github.io/NLW)
 
 ## 🛠 Tecnologias
 
